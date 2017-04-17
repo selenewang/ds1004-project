@@ -3,7 +3,7 @@
 check the number of na in each column, write with MapReduce
 - This program give a roughly idea on how many na each column have, please run the Map.ipynb for detail count
 
-&nbsp
+
 
 ### count_by_one_var
 Prepared data for plotting, containing count by crime type, count by big crime type, count by date, count by month, count by year. 
@@ -30,7 +30,7 @@ Check base type, semantic type and validility of the data for each cell in each 
 Plotting all the statistics for crime data.
 
 
-Tips:
+*Tips:
 - To run the pyspark program locally
 
 https://www.dataquest.io/blog/pyspark-installation-guide/
