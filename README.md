@@ -28,3 +28,8 @@ Check base type, semantic type and validility of the data for each cell in each 
 
 ### plot.ipynb
 Plotting all the statistics for crime data.
+
+
+Tips:
+- To run the pyspark program locally
+https://www.dataquest.io/blog/pyspark-installation-guide/
