@@ -19,7 +19,7 @@ Prepared data for plotting, containing count of location vs crime type, count of
 - output format: key  count of felony count of mis, count of violation, count of na. 
 - To run the program in dumo, type:
 ```python
-spark-submit program_name.py /user/zl1732.nypd
+spark-submit program_name.py /user/zl1732/nypd.csv
 ```
 
 ### map.ipynb
