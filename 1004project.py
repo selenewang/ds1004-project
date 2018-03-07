@@ -9,7 +9,7 @@ import datetime
 
 
 # In[ ]:
-
+sc = SparkContext()
 data = sc.textFile('/Users/Selene/1004/NYPD_Complaint_Data_Historic.csv').mapPartitions(lambda x:reader(x))
 header = data.first()
 lines = data.filter(lambda line: line != header)
